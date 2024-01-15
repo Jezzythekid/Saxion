@@ -16,4 +16,4 @@ It adressed:
 ## Notes
 
 - Each week there were about 4 assignments to do. Each assignment was worth an x amount of points and you had to pick the assignments that summed up to 8 points per week (mostly the last and second to last were enough).
-- `functions.h` and `functions.c` are headerfiles that were provided for us to use in our assignments. These were **not** written by me, buy the teacher.
+- `functions.h` and `functions.c` are headerfiles that were provided to us to use in our assignments. These were **not** written by me, buy the teacher.
