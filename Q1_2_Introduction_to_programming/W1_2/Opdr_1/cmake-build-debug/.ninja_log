@@ -1,0 +1,8 @@
+# ninja log v5
+2	93	7158727960667541	CMakeFiles/Opdr_1.dir/main.c.obj	6269c0a02385d2ee
+0	157	7158703717934579	CMakeFiles/Opdr_1.dir/functions.c.obj	35dc331a1d26ecbe
+94	235	7158727961988593	Opdr_1.exe	424cfcf379bbb92e
+1	222	7161727392968971	build.ninja	5b0504b71cd5ea14
+12	470	7161727428853237	CMakeFiles/Opdr_1.dir/main.c.obj	4cce73854381f725
+53	666	7161727430954144	CMakeFiles/Opdr_1.dir/functions.c.obj	405cafa8192e86fe
+667	1053	7161727434694102	Opdr_1.exe	424cfcf379bbb92e

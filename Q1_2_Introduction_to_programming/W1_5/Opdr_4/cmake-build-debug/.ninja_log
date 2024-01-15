@@ -1,0 +1,17 @@
+# ninja log v5
+8	303	7184953861459528	build.ninja	dbcfb18e4ec787ce
+3	121	7187352707306379	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+122	296	7187352708989537	Opdr_4.exe	67dd1b03bcd1874f
+1	171	7184950952373374	CMakeFiles/Opdr_4.dir/functions.c.obj	286cea311f43afa7
+3	134	7187353015212433	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+135	292	7187353016756840	Opdr_4.exe	67dd1b03bcd1874f
+3	127	7187355504065838	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+128	292	7187355505661770	Opdr_4.exe	67dd1b03bcd1874f
+3	120	7187356650120193	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+122	283	7187356651670449	Opdr_4.exe	67dd1b03bcd1874f
+2	131	7187368782755751	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+132	324	7187368784607017	Opdr_4.exe	67dd1b03bcd1874f
+3	136	7187369078495900	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+138	309	7187369080179616	Opdr_4.exe	67dd1b03bcd1874f
+2	121	7187369753024092	CMakeFiles/Opdr_4.dir/main.c.obj	db4e56deadedf1bd
+123	349	7187369755170246	Opdr_4.exe	67dd1b03bcd1874f
